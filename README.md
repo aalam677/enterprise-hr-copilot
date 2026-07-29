@@ -135,18 +135,4 @@ Responsible for:
 # 🏗 Architecture
 
 ```text
-User
- │
- ▼
-Streamlit UI
- │
- ▼
-FastAPI Backend
- │
- ▼
-Supervisor Agent
- │
- ├─────────────► Policy Retrieval Agent
- │                   │
- │                   ▼
- │                ChromaDB
+<img width="786" height="645" alt="image" src="https://github.com/user-attachments/assets/bfa4a713-5962-4b26-b253-0d0466c27f96" />
