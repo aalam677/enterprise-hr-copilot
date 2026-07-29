@@ -1,0 +1,18 @@
+[
+    {
+        "request_id": "REQ-02BF0C74",
+        "employee_id": "EMP001",
+        "from_date": "2025-08-12",
+        "to_date": "2025-08-14",
+        "leave_type": "Casual",
+        "status": "Submitted"
+    },
+    {
+        "request_id": "REQ-4DC37D92",
+        "employee_id": "EMP001",
+        "from_date": "2025-08-12",
+        "to_date": "2025-08-14",
+        "leave_type": "Casual",
+        "status": "Submitted"
+    }
+]

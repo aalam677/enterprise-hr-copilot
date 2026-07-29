@@ -1,0 +1,10 @@
+{
+  "EMP001": {
+    "name": "John Smith",
+    "designation": "Software Engineer",
+    "department": "IT",
+    "annual_leave": 12,
+    "casual_leave": 5,
+    "sick_leave": 8
+  }
+}
